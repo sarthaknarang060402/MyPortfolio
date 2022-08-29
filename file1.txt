@@ -1,1 +1,2 @@
 this is file 1 -- i am editing this now in main branch after first merge
+this is file 1 -- i am editing this now in develop branch again after switching from main
